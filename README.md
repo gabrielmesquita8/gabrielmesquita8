@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning more about test automation and security information
 - 🇧🇷 Born and living in Brazil
 - 🥅 Goals: Maximize my knowledge in the Test Automation area
-- 🎈
+- 🎈 RD 
 
 ## Knowledge
 <div style="display: flex; gap: 10px;">
