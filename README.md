@@ -1,41 +1,28 @@
-### Hi there, I'm Gabriel Mesquita 👋
+## Hello, here a few things about me:
 
-## I'm a Developer in free time and Tester in the Job!
 - 🔭 I’m currently working at Sofist! 
-- 🌱 I’m currently learning more about Java and Spring Framework
-- 🇧🇷 Born and living in Campinas, Brazil
-- 🥅 2021 Goals: Learn more about Security Information
-- ⚡ Fun fact: I love to play video game and read books about philosophy and fiction/fantasy
+- 🌱 I’m currently learning more about test automation and security information
+- 🇧🇷 Born and living in Brazil
+- 🥅 Goals: Maximize my knowledge in the Test Automation area
+- 🎈
 
-### Connect with me:
+## Knowledge
+<div style="display: flex; gap: 10px;">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/-APPIUM-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-REST%20ASSURED-DB7093?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-CODECEPTJS-critical?style=for-the-badge&logo=codeceptjs&logoColor=black"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-KOTLIN-323330?style=for-the-badge&logo=kotlin&logoColor=orange"/>
+<img src="https://img.shields.io/badge/-AZURE-0052CC?style=for-the-badge&logo=Azure%20Devops&logoColor=black"/>
+<img src="https://img.shields.io/badge/-JENKINS-FFA500?style=for-the-badge&logo=jenkins&logoColor=black"/>
+</div>
 
-[<img align="left" alt="Gabriel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Intelij" width="26px" src="https://insmac.org/uploads/posts/2017-08/1503178991_intellij-idea.png" />][intelij]
-[<img align="left" alt="Spring" width="26px" src="https://spring-petclinic.github.io/images/logo-spring.png" />][spring]
-[<img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/java-43-569305.png" />][java]
-[<img align="left" alt="Kotlin" width="26px" src="https://p7.hiclipart.com/preview/192/987/634/kotlin-java-logo-others.jpg" />][kotlin]
-[<img align="left" alt="Docker" width="26px" src="https://clipartart.com/images/docker-logo-clipart-7.jpg" />][docker]
-[<img align="left" alt="Jenkins" width="26px" src="https://rigor.com/wp-content/uploads/2016/09/2000px-Jenkins_logo.svg.png" />][jenkins]
-[<img align="left" alt="Postgresql" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />][postgresql]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
-[<img align="left" alt="Git" width="26px" src="http://lttng.org/images/dist-logos-icons/192/git.png" />][git]
-
-<br />
-<br />
-
-[website]: https://www.sofist.com.br/
-[linkedin]: https://www.linkedin.com/in/gabriel-mesquita-33104b209/
-[intelij]: https://www.jetbrains.com/idea/
-[spring]:https://spring.io/projects/spring-framework
-[java]: https://www.java.com/pt-BR/
-[kotlin]: https://kotlinlang.org/
-[docker]: https://www.docker.com/
-[Jenkins]: https://www.jenkins.io/
-[postgresql]: https://www.postgresql.org/
-[Sql]: https://www.microsoft.com/pt-br/sql-server/sql-server-2019
-[git]: https://git-scm.com/
+## Contact me
+<a href="https://www.linkedin.com/in/gabriel-mesquita-33104b209/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
