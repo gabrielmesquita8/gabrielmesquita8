@@ -1,6 +1,6 @@
 ## Hello, here a few things about me:
 
-- 🔭 I’m currently working at Sofist! 
+- 🔭 I’m currently working at CI&T! 
 - 🌱 I’m currently learning more about test automation and security information
 - 🇧🇷 Born and living in Brazil
 - 🥅 Goals: Maximize my knowledge in the Test Automation area
